@@ -263,6 +263,9 @@
   padding-bottom: var(--dl-space-space-tripleunit);
   justify-content: center;
 }
+.home-text3 {
+  align-self: flex-end;
+}
 @media(max-width: 991px) {
   .home-heading {
     text-align: center;
